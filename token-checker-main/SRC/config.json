@@ -1,0 +1,6 @@
+{
+    "threads": 50,
+    "thread_wait_time": 1,
+    "proxyless": true,
+    "clear_input_tokens": false
+}
